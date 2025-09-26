@@ -1,0 +1,14 @@
+new check
+origin	git@github.com:jbuf77/presidio.git (fetch)
+origin	git@github.com:jbuf77/presidio.git (push)
+0
+text: My name is jbuf77, jbuf77
+items:
+[{'start': 19, 'end': 25, 'entity_type': 'PERSON', 'text': 'jbuf77', 'operator': 'replace'}, {'start': 11, 'end': 17, 'entity_type': 'PERSON', 'text': 'jbuf77', 'operator': 'replace'}]
+new check
+origin	git@github.com:jbuf77/presidio.git (fetch)
+origin	git@github.com:jbuf77/presidio.git (push)
+0
+text: My name is jbuf77, jbuf77
+items:
+[{'start': 19, 'end': 25, 'entity_type': 'PERSON', 'text': 'jbuf77', 'operator': 'replace'}, {'start': 11, 'end': 17, 'entity_type': 'PERSON', 'text': 'jbuf77', 'operator': 'replace'}]
